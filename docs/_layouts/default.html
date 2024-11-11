@@ -10,6 +10,7 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css"
     />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
   </head>
 
   <body>
@@ -23,4 +24,13 @@
       {{ content }}
     </main>
   </body>
+  <script>
+    // Ajouter un séparateur des pages avant chaque élément h1
+    // utilisation hr comme séparateur des pages
+    document.querySelectorAll("h1").forEach((tag) => {
+      const insertBefore = (el, htmlString) =>
+        el.insertAdjacentHTML("beforebegin", htmlString);
+      insertBefore(tag, "<hr />");
+    });
+  </script>
 </html>
