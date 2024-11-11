@@ -5,7 +5,7 @@ title: "Rapport : Analyse & Conception"
 
 {% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}
-{% if page.chapitre %}
+{% if page.chapter %}
 {{ page.content | markdownify }}
 {% endif %}
 {% endfor %}

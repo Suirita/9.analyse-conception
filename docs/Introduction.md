@@ -1,18 +1,8 @@
 ---
 title: "Introduction"
 layout: default
-chapitre: true
-order: 1
+chapter: true
+order: 2
 ---
 
 <a id="introduction"></a>
-
-## Équipe de réalisation
-
-- **Fahd Suirita**
-
-## Supervisé par`
-
-**Monsieur Fouad ESSARRAJ**
-
-[View the Presentation](presentation/index.html)
