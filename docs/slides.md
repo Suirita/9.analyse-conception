@@ -1,6 +1,6 @@
 ## **User search**
 
-- By: SUIRITA Fahd
+- Presented by: SUIRITA Fahd
 - Framed by: ESSARRAJ Fouad
 
 ---
@@ -10,26 +10,44 @@
 
 ---
 
-### **2. Empathy:**
+### **2. Planning:**
 
 
 
 ---
 
-### **3. Define:**
+### **3. Pkg- Project validation:**
 
-
----
-
-### **4. ideate:**
 
 
 ---
 
-### **4. Prototype:**
+### **4. Learning:**
+
+
+
+---
+
+### **5. Empathy:**
+
+
+
+---
+
+### **6. Define:**
+
+
+---
+
+### **7. ideate:**
+
+
+---
+
+### **8. Prototype:**
 #### **1.class diagram:**
 
 ---
 
-### **4. Prototype:**
-#### **1.Mockup:**
+### **8. Prototype:**
+#### **2.Mockup:**
