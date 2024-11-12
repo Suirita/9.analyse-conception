@@ -2,7 +2,7 @@
 title: "Planning"
 layout: default
 chapter: true
-order: 5
+order: 6
 ---
 
 <a id="Planning"></a>

@@ -2,7 +2,7 @@
 title: "Empathy"
 layout: default
 chapter: true
-order: 6
+order: 7
 ---
 
 <a id="Empathy"></a>

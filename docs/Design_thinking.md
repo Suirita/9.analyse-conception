@@ -2,7 +2,7 @@
 title: "Design_thinking"
 layout: default
 chapter: true
-order: 4
+order: 5
 ---
 
 <a id="Design_thinking"></a>
