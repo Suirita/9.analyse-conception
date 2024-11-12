@@ -6,6 +6,9 @@ order: 6
 ---
 
 <a id="Planning"></a>
+
+# Planning:
+
 To ensure the success of our project, it is imperative to create a detailed plan that lists all the tasks to be completed using the method we presented previously.
 
 <table style="font-size: 18px" >

@@ -6,6 +6,9 @@ order: 2
 ---
 
 <a id="introduction"></a>
+
+# Introduction:
+
 Soli-LMS is a powerful and flexible Learning Management System designed to support training organizations and educational institutions.
 
 Soli-LMS makes it easy to manage all parts of the training process, from setting up projects to assessing learners' progress.
