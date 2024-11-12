@@ -1,7 +1,7 @@
 ---
 title: "Intro"
 layout: default
-chapitre: true
+chapter: true
 order: 1
 ---
 
