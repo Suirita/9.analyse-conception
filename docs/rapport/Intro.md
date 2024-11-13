@@ -5,13 +5,15 @@ order: 1
 
 # **Links:**
 
-<a href="#Introduction">Introduction</a>
-<a href="#Pkg_validation">Pkg-validation</a>
-<a href="#Design_thinking">Design thinking</a>
-<a href="#Learning">Learning</a>
-<a href="#Planning">Planning</a>
-<a href="#Empathy">Empathy</a>
-<a href="#Define">Define</a>
-<a href="#Ideate">Ideate</a>
-<a href="#Prototype">Prototype</a>
-<a href="#Conclusion">Conclusion</a>
+<ul>
+  <li><a href="#Introduction">Introduction</a></li>
+  <li><a href="#Pkg_validation">Pkg-validation</a></li>
+  <li><a href="#Design_thinking">Design thinking</a></li>
+  <li><a href="#Learning">Learning</a></li>
+  <li><a href="#Planning">Planning</a></li>
+  <li><a href="#Empathy">Empathy</a></li>
+  <li><a href="#Define">Define</a></li>
+  <li><a href="#Ideate">Ideate</a></li>
+  <li><a href="#Prototype">Prototype</a></li>
+  <li><a href="#Conclusion">Conclusion</a></li>
+</ul>
