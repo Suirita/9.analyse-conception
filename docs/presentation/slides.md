@@ -7,25 +7,25 @@
 
 ### **1. Introduction**
 
-![soli_lms_logo](../assets/soli_lms_logo.png)
+![soli_lms_logo](../assets/img/soli_lms_logo.png)
 
 ---
 
 ### **2. Pkg-validation:**
 
-![pkg_validation](../assets/pkg_validation.jpg)
+![pkg_validation](../assets/img/pkg_validation.jpg)
 
 ---
 
 ### **3. Learning:**
 
-![learning](../assets/learning.png)
+![learning](../assets/img/learning.png)
 
 ---
 
 ### **4. Design thinking:**
 
-![design_thinking](../assets/design_thinking.webp)
+![design_thinking](../assets/img/design_thinking.png)
 
 ---
 
@@ -74,7 +74,7 @@
 
 ### **6. Empathy:**
 
-![empathy_card_pkg_validations](../assets/empathy_card_pkg_validations.svg)
+![empathy_card_pkg_validations](../assets/img/empathy_card_pkg_validations.svg)
 
 ---
 

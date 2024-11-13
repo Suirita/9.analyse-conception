@@ -9,7 +9,7 @@ order: 6
 
 To ensure the success of our project, it is imperative to create a detailed plan that lists all the tasks to be completed using the method we presented previously.
 
-<div style="text-align: center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <table style="font-size: 24px" >
     <tr>
       <th></th>
