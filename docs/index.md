@@ -4,13 +4,13 @@ Welcome to the project report. This document is a presentation of the work carri
 
 ## Realized by:
 
-**Suirita Fahd**
+### **Suirita Fahd**
 
 ## Supervised by:
 
-**Mr. Fouad ESSARRAJ**
+### **Mr. Fouad ESSARRAJ**
 
 ## Useful Links
 
-- [Project Report](./rapport/index.html)
+- [Project Rapport](./rapport/index.html)
 - [Project Presentation](./presentation/index.html)

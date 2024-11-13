@@ -3,9 +3,9 @@ chapter: true
 order: 2
 ---
 
-<a id="introduction"></a>
+<a id="Introduction"></a>
 
-# Introduction:
+# **Introduction:**
 
 Soli-LMS is a powerful and flexible Learning Management System designed to support training organizations and educational institutions.
 

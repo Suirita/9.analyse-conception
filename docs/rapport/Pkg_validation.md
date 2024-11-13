@@ -5,7 +5,7 @@ order: 3
 
 <a id="Pkg_validation"></a>
 
-# Pkg-validation:
+# **Pkg-validation:**
 
 In our project, my main focus is on the validation package. This package is important for making sure training projects meet quality standards and that learners are evaluated fairly and constructively.
 

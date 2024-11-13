@@ -5,7 +5,7 @@ order: 7
 
 <a id="Empathy"></a>
 
-# Empathy:
+# **Empathy:**
 
 To ensure that the training projects are aligned with the training goals, it is crucial to understand the needs and perspectives of the users affected by the problem to be solved.
 
