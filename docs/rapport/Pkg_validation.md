@@ -1,6 +1,4 @@
 ---
-title: "Pkg_validation"
-layout: default
 chapter: true
 order: 3
 ---

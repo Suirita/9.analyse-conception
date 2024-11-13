@@ -1,6 +1,4 @@
 ---
-title: "Design_thinking"
-layout: default
 chapter: true
 order: 5
 ---
@@ -11,7 +9,7 @@ order: 5
 
 Design thinking is a human-centered approach to innovation. It is a method or process of global design, centered on the user (or the human), with a view to creating innovative services or products.
 
-![design_thinking](./assets/design_thinking.webp)
+![design_thinking](../assets/design_thinking.webp)
 
 Empathy
 Understanding the needs and perspectives of the users affected by the problem to be solved. This involves observing, listening to, and interacting with users to gain a deep understanding of their needs, motivations, and challenges.

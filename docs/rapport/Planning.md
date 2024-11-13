@@ -1,6 +1,4 @@
 ---
-title: "Planning"
-layout: default
 chapter: true
 order: 6
 ---
