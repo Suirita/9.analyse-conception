@@ -4,7 +4,7 @@ Welcome to the project report. This document is a presentation of the work carri
 
 ## Realized by:
 
-- **Zakaria Azizi**
+**Suirita Fahd**
 
 ## Supervised by:
 
@@ -12,5 +12,5 @@ Welcome to the project report. This document is a presentation of the work carri
 
 ## Useful Links
 
-- [Project Report](./report/index.html)
+- [Project Report](./rapport/index.html)
 - [Project Presentation](./presentation/index.html)
