@@ -3,8 +3,14 @@ left to right direction
 
 actor Trainer
 
-Trainer --> (Evaluate Learner's Skill)
-Trainer --> (Assign Skill Level)
-Trainer --> (Provide Feedback)
+rectangle pkg_validation {
+  usecase "Evaluate Learner's Skill" as U1
+  usecase "Assign Skill Level" as U2
+  usecase "Provide Feedback" as U3
+}
+
+Trainer -- U1
+U1 <.. U2 : <<extend>>
+U1 <.. U3 : <<extend>>
 
 @enduml
