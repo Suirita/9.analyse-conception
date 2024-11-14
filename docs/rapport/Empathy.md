@@ -7,74 +7,82 @@ order: 7
 
 # **Empathy:**
 
-To ensure that the training projects are aligned with the training goals, it is crucial to understand the needs and perspectives of the users affected by the problem to be solved.
-
 ### Training Manager
 
-#### What They Say
+#### What they say
 
-- "I need precise tracking of skill levels to better structure the learning paths."
-- "Personalized feedback on skills would make it easier to manage progress."
+- "I need to ensure that assessments are accurate for every skill."
+- "Skills must be validated consistently across all training programs."
 
-#### What They Do
+#### What they do
 
-- Oversees the assignment of skill levels for each learner and each module.
-- Analyzes the comments added to assessments to ensure the consistency of feedback and the skills developed.
+- Oversees the assessment and validation processes to guarantee the quality of training programs.
+- Reviews comments and skill levels to ensure they align with industry standards.
 
-#### What They Feel
+#### What they feel
 
-- Wants a more detailed view of skill progression, with specific levels providing better granularity.
-- Concerned about the standardization of comments and levels to ensure a consistent evaluation.
+- Concerned about the consistency of evaluations among trainers.
+- Strives to maintain a high and standardized skill level.
 
-#### What They Need
+#### What they need
 
-- A simple and transparent level assignment system, allowing a quick view of where each learner stands.
-- The ability to add clear and searchable comments to ensure coherent and personalized tracking of skills.
+- A clear tool for viewing validated skills, with detailed comments for each assessment.
+- Accurate tracking to ensure consistent validations.
 
 ---
 
 ### Trainer
 
-#### What They Say
+#### What they say
 
-- "I need a flexible tool to assign skill levels to learners."
-- "A space to add comments would be useful for providing constructive feedback."
+- "I need a simple way to evaluate learners' skills and leave useful feedback."
+- "I want my comments to help learners improve."
 
-#### What They Do
+#### What they do
 
-- Assesses the skills of each learner by assigning specific levels.
-- Writes comments to guide learners on their strengths and areas for improvement.
+- Assigns skill levels to learners and writes comments to explain the results.
+- Uses feedback to adjust upcoming learning sessions.
 
-#### What They Feel
+#### What they feel
 
-- Needs flexibility in tools to customize assessments and make them understandable.
-- Sometimes limited by tools that lack clarity and intuitiveness for managing skill levels and comments.
+- Wants to provide constructive feedback but feels limited by current tools.
+- Frustrated by the need to navigate multiple platforms to track and validate skills.
 
-#### What They Need
+#### What they need
 
-- A clear interface where they can assign skill levels and write comments, while maintaining a history of feedback for each learner.
-- Options to easily view already validated skills and track each learner's overall progress.
+- An easy interface to evaluate, comment on, and quickly validate learners' skills.
+- Options to customize comments and offer tailored feedback.
 
 ---
 
 ### Learner
 
-#### What They Say
+#### What they say
 
-- "I need to understand my skill levels and receive feedback on my progress."
-- "A personalized comment would help me improve."
+- "I want to understand why my skill isn’t validated and how I can improve."
+- "The trainers' comments help me see what I need to work on."
 
-#### What They Do
+#### What they do
 
-- Checks their skill levels to identify progress and areas for improvement.
-- Reads the trainer's comments to better understand expectations and work on weaknesses.
+- Reviews validated skills and reads trainer comments to improve.
+- Seeks clarification when feedback is unclear.
 
-#### What They Feel
+#### What they feel
 
-- Sometimes confused about the skill levels and their significance for their learning.
-- Motivated by personalized comments, which provide clear guidance for advancement.
+- Sometimes confused by evaluations, needing more clarity on strengths and improvement areas.
+- Motivated when receiving constructive comments that help them progress.
 
-#### What They Need
+#### What they need
 
-- A space where they can see their skill levels and read comments in an organized and accessible way.
-- Regular and precise feedback to help them stay motivated and better understand their progress.
+- A clear space to view validated skills and read trainer feedback.
+- Precise comments that help understand how to reach the next level.
+
+---
+
+### Summary
+
+The **pkg_validation** must provide a seamless experience for each user:
+
+- **For the Training Manager**: structured tracking of validations and comments to ensure quality.
+- **For the Trainer**: a simple, flexible space for evaluating skills, assigning levels, and giving effective feedback.
+- **For the Learner**: transparent access to validations and comments to better understand their progress and goals.

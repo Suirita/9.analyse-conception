@@ -80,9 +80,7 @@
 
 ### **7. Define:**
 
-1. Managers need a clear tool for tracking skills.
-2. Trainers need an intuitive feedback tool.
-3. Learners need a simple progress view.
+- Trainer: Assess skills and provide feedback.
 
 ---
 

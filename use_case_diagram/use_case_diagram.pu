@@ -1,0 +1,10 @@
+@startuml
+left to right direction
+
+actor Trainer
+
+Trainer --> (Evaluate Learner's Skill)
+Trainer --> (Assign Skill Level)
+Trainer --> (Provide Feedback)
+
+@enduml
