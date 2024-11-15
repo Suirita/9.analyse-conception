@@ -98,7 +98,7 @@
 
 ### **9. Prototype:**
 
-#### **2. Prototype:**
+#### **2. Mockup:**
 
 ---
 
